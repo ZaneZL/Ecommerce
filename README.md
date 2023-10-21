@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ECommerceFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.7.
@@ -25,3 +26,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Ecommerce
+Ecommerce
+
+
+This is a prject to help me familiarize the data flow between front-end and back-end as well as the external services/APIs.
+This is a proejct learned by following on Sir.Chad Darby's class on Udemy.
+
+
+>>>>>>> b326aabe7a21173370e8ca99acc9643c2dde55a5
