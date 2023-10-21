@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  yagachickapiUrl: "http://localhost:8080/api",
+  stripePublishableKey: "pk_test_51O3fAKIt2R29BW2GMW1ByTlSDPnoWAQBXg7QmMAwwvxWHeohsTHmrmuW350PZEXzb6B7VTIn0feeruadcPV1q33X00LrGMmLnD"
 };
 
 /*
